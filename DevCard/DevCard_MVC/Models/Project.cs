@@ -1,5 +1,6 @@
 ﻿namespace DevCard_MVC.Models
 {
+
     public class Project
     {
         public long Id { get; set; }
@@ -18,7 +19,7 @@
         }
     }
 
-
+   
     //public class IndexModel
     //{
     //    public List<Project> Projects { get; set; }
